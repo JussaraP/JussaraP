@@ -1,12 +1,16 @@
-🤗 Olá! Me chamo Jussara Pacheco
+🤗 Olá! Eu sou a Jussara...
 
 👩‍💻 Sobre mim
+
+🎓 Tenho Téc. em Desenvolvimento de Sistemas
+
+⌛ Cursando Ciência dos Dados
 
 🚀 Apaixonada por tecnologia e sempre em busca de aprender algo novo.
 
 🎯 Estudando para me tornar Analista de Dados.
 
-🌱 Atualmente focada em Python / Inglês.
+🌱 Atualmente focada em Python.
 
 ⚡ Fato divertido: consigo passar horas falando de Doramas.
 
